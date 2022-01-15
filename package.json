@@ -23,7 +23,7 @@
   "homepage": "https://github.com/CharmedSatyr-freeCodeCamp/recipe_box#readme",
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "react": "^15.4.2",
     "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2"
